@@ -1,0 +1,18 @@
+# Timeline of the Review
+
+The peer review will be conducted starting now until the end of April. A detailed breakdown of the activities and meeting schedule is given here.
+
+| Week | Phase     | Activities                                                                                                                                                        | Meetings                                                    |
+| ---- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 2/05 | Setup     |                                                                                                                                                                   | Kickoff meeting between Howard University and World Bank    |
+| 2/12 | Review    | Get familiar with using GitHub for your review.<br/>Check access to all Data products and all the GitHub repositories<br/>Check access to all datasets            |                                                             |
+| 2/19 |           | Review code of Data Products<br/>Add issues and suggest edits on the respective GitHub repositories.                                                              |                                                             |
+| 2/26 |           | Review metodology and documentation of Data Product<br/>Add issues and suggest edits to the documentation                                                         | Review discussion and Reproducibility Guidance meeting      |
+| 3/04 | Reproduce | Check quality of methodolgy for reproduction<br/>Add issues and suggest edits on respective GitHub repositories                                                   |                                                             |
+| 3/11 |           | Reproduce 2 notebooks of 2 different Data Products<br/>Document all issues encountered                                                                            |                                                             |
+| 3/18 |           | Reproduce notebookes of the remaining 3 Data products                                                                                                             | Reproducibility discussion and Reusability Guidance meeting |
+| 3/25 | Reuse     | Pick a country of choice and formulate research questions<br/>Gather data for the new country<br/>Fork the repository to create your own for the new Data Product |                                                             |
+| 4/01 |           | Reuse atleast 2 of the five Data Products presented to you<br/>Document methodology and results                                                                   |                                                             |
+| 4/08 |           | Finalize draft web-book<br/>Conduct a peer review amongst students                                                                                                | Check-in to address issues and concerns before presentation |
+| 4/15 | Wrapup    | Finalize web-books based on peer review                                                                                                                           |                                                             |
+| 4/22 | Present   | Students to conduct a presentation of the work the findings from their peer review                                                                                | Students Presentation at the World Bank                     |
